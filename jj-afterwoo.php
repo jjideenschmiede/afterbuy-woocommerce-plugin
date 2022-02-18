@@ -7,8 +7,8 @@
  * Author: J&J Ideenschmiede GmbH
  * Author URI: https://jj-ideenschmiede.de
  * GitHub Plugin URI: https://github.com/jjideenschmiede/jj-afterwoo-wordpress-plugin
- * License: GPLv2
- * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
+ * License: GPLv3
+ * License URI: http://www.gnu.org/licenses/gpl-3.0.html
 **/
 
 add_action( 'rest_api_init', 'createEndpoint' );
