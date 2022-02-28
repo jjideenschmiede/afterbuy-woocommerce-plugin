@@ -3,7 +3,7 @@
  * Plugin Name: Afterbuy Schnittstelle für WooCommerce - WordPress Plugin
  * Plugin URI: https://schnittstellen24.de/shopsysteme/woocommerce/
  * Description: Die Schnittstelle für Afterbuy und WooCommerce.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: J&J Ideenschmiede GmbH
  * Author URI: https://jj-ideenschmiede.de
  * GitHub Plugin URI: https://github.com/jjideenschmiede/afterbuy-woocommerce-plugin
