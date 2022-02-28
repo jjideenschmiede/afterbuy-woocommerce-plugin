@@ -28,7 +28,7 @@
             <p>Bestellen Sie bequem in unserem <a href="https://schnittstellen24.de/produkt/jj-afterwoo/" title="Onlineshop">Onlineshop</a> die Schnittstellenlösung. Sie haben die Auswahl zwischen einer vollumfänglichen Schnittstellenlösung und einer Bestellrückführung.</p>
             <h3>2. Dokumentation erhalten und Afterbuy auf die Schnittstellenanbindung vorbereiten</h3>
             <p>Nachdem Sie die Schnittstellenlösung erhalten haben, gehen wir alles weitere persönlich mit Ihnen durch, um das Wertemapping abzustimmen und die Systeme auf die Anbindung vorzubereiten. Hierbei legen wir besonderen Wert auf persönliche Kommunikation, um Sie vollumfänglich abzuholen und die Anbindung Erfolgreich zu realisieren.</p>
-            <p>Sie haben Fragen oder benötigen Hilfe? Kontaktieren Sie gern unseren <a href="mail:support@jj-ideenschmiede.de" title="support@jj-ideenschmiede.de">Support</a>!</p>
+            <p>Sie haben Fragen oder benötigen Hilfe? Kontaktieren Sie gern unseren <a href="mailto:support@jj-ideenschmiede.de" title="support@jj-ideenschmiede.de">Support</a>!</p>
         </div>
         <div class="sidebar-wrapper">
              <figure class="logo-wrapper">
