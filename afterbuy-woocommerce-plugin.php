@@ -14,7 +14,7 @@
 add_action( 'rest_api_init', 'createEndpoint' );
 
 function createEndpoint(){
-    register_rest_route( 'jj-dev', 'version', [
+    register_rest_route( 'afterbuy-woocommerce-plugin', 'version', [
         'methods' => 'GET',
         'callback' => 'systemData',
     ] );
