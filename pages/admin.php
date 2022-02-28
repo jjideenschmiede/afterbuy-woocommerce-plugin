@@ -1,12 +1,12 @@
 <!-- Define variables & function -->
 <?php
 
-    $endpointLink = get_home_url() . '/wp-json/jj-afterwoo/version';
+    $endpointLink = get_home_url() . '/wp-json/afterbuy-woocommerce-plugin/version';
 
 ?>
 
 <!-- Add custom css -->
-<link rel="stylesheet" href="<?php echo plugins_url( 'jj-afterwoo/css/style.css' ) ?>">
+<link rel="stylesheet" href="<?php echo plugins_url( 'afterbuy-woocommerce-plugin/css/style.css' ) ?>">
 
 <!-- Add admin page html -->
 <div class="admin-page-wrapper">
@@ -32,7 +32,7 @@
         </div>
         <div class="sidebar-wrapper">
              <figure class="logo-wrapper">
-                <img src="<?php echo plugins_url( 'jj-afterwoo/img/logo.svg' ) ?>" alt="J&J Ideenschmiede GmbH">
+                <img src="<?php echo plugins_url( 'afterbuy-woocommerce-plugin/img/logo.svg' ) ?>" alt="J&J Ideenschmiede GmbH">
             </figure>
             <div class="support-wrapper">
                 <h2>Unser Support</h2>
