@@ -37,7 +37,7 @@ function systemData(){
 add_action( 'admin_menu', 'adminPage' );
 
 function adminPage(){
-    add_menu_page( 'Afterbuy - WooCommerce Schnittstelle', 'Afterbuy - WooCommerce Schnittstelle', 'manage_options', 'afterbuy-woocommerce-plugin', 'adminPageTemplate', plugins_url( 'afterbuy-woocommerce-plugin/img/icon.svg' ) );
+    add_menu_page( 'Afterbuy - WooCommerce Schnittstelle', 'Afterbuy Schnittstelle', 'manage_options', 'afterbuy-woocommerce-plugin', 'adminPageTemplate', plugins_url( 'afterbuy-woocommerce-plugin/img/icon.svg' ) );
 }
 
 function adminPageTemplate(){
